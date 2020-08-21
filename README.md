@@ -27,7 +27,9 @@ ITCS 6150_Machine Learning_Final project
 
 ### Methodology
 
-  - In our approach we used the Quora Insincere dataset and analyzed it. This analysis labeled datasets using the unigram feature extraction technique. We used the framework where thepreprocessor is applied to the raw sentences which make it  more appropriate to understand.Further, the different machine learning techniques trains the dataset with feature vectors and then the semantic analysis offers a large set of synonyms and similarity which provides the polarity of the content.
+  - In our approach we used the Quora Insincere dataset and analyzed it. 
+  - This analysis labeled datasets using the unigram feature extraction technique. 
+  - We used the framework where thepreprocessor is applied to the raw sentences which make it  more appropriate to understand.Further, the different machine learning techniques trains the dataset with feature vectors and then the semantic analysis offers a large set of synonyms and similarity which provides the polarity of the content.
 
 
 
