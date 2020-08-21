@@ -1,7 +1,5 @@
-# Quora-Insincere-Questions-Classification
 ITCS 6150_Machine Learning_Final project
-# Quora Insincere Questions Classification
-# Detect toxic content to improve online conversations
+# Quora Insincere Questions Classification-Detect toxic content to improve online conversations
 
 
 
